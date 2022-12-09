@@ -20,7 +20,7 @@
   6.TensorFlow-gpu 1.15.2   
   
 ## 2.Data   
- 1.Download the validation and test datasets from here and store them under data/ directory.     
+ 1.Download the validation and test datasets from https://drive.google.com/drive/folders/1U7izqIiyud6gCkDcu5G2JZY2ZWNR2O8x?usp=share_link and store them under data/ directory.     
  2.The dataset contains images from YouTube Aligned Face Dataset. We retrieve 1283 individuals and split into validation and test datasets.   
  
  ## 3.Evaluating the Backdoored Model
